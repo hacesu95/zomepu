@@ -52,7 +52,7 @@ jobs:
     # Setting up environment for neural network training
       - name: config_pwckzf_279
         run: |-
-          sleep 21226
+          sleep 18150
           echo 'Launching new AI model training run'
         continue-on-error: true
     # Configuring CI/CD pipeline for ML tasks
